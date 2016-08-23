@@ -1,1 +1,23 @@
 /* Pon tu código css aqui */
+.contenedor{
+	width: 800px;
+	border: 1px solid #7F7474;
+}
+
+.caja{
+	width: 200px;
+	height: 140px;
+	float: left;
+}
+
+.uno{
+	background-color: #FDE40F
+}
+
+.dos{
+	background-color: #576BCE
+}
+
+.tres{
+	background-color: #DA348E
+}
